@@ -1,4 +1,4 @@
-##Question 1: Creating Files and Directories
+## Question 1: Creating Files and Directories
 
 1. Create a Directory in YOUR home directory labeled: lab4. Change your current working directory to ~/lab4.
 2. Create 3 directories: pets,docs,songs. Inside each directory, create 2 subdirectories called: new and old.
@@ -10,7 +10,7 @@
 ![Question 1](images/../../images/lab4q12.png)
 ![Question 1](images/../../images/lab4q13.png)
 
-##Question 2: Removing Files and Directories
+## Question 2: Removing Files and Directories
 
 1. Change your current working directory to: /srv/
 2. Remove the file1, file2, file3 files inside the labs/pets/new/ directory without changing your current working directory.
@@ -19,7 +19,7 @@
 5. Remove the lab4 directory without changing your current working directory.
 ![Question 2](images/../../images/lab4q2.png)
 
-##Question 3: Moving Files and Directories
+## Question 3: Moving Files and Directories
 
 1. Make sure that you are working on your home directory. Run the following command: wget https://robertalberto.com/public/lab4.zip && unzip lab4.zip && rm lab4.zip
 2. In your home directory, create the following directories: lab4-imgs, lab4-audio, lab4-video, lab4-docs
@@ -31,7 +31,7 @@
 ![Question 3](images/../../images/lab4q33.png)
 ![Question 3](images/../../images/lab4q34.png)
 
-##Question 4: Copying Files and Directories
+## Question 4: Copying Files and Directories
 
 1. Go to pexels.com. Download at least 3 wallpapers.
 2. Copy the wallpapers to your Pictures/NewWallpapers directory.
