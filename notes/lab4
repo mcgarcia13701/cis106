@@ -1,0 +1,7 @@
+##Question 1: Creating Files and Directories
+
+1. Create a Directory in YOUR home directory labeled: lab4. Change your current working directory to ~/lab4.
+2. Create 3 directories: pets,docs,songs. Inside each directory, create 2 subdirectories called: new and old.
+3. Inside the new and old directories, create 3 files: file1, file2, and file3.
+4. list the lab4 directory recursively.
+5. Use the tree command to list the lab4 directory.

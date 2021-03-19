@@ -76,24 +76,24 @@ Ubuntu is shipped in stable and regular release cycles;
   
 ##Ubuntu - Included Software
 Ubuntu includes thousands of pieces of software such as:
-![Software Included](notes1/includedsoftware.png)
+![Software Included](../notes/includedsoftware.png)
 
 ##What is Debian?
-![Debian Logo](notes1/debian.PNG)
+![Debian Logo](../notes/debian.PNG)
 * **Debian** is an all-volunteer organization dedicated to developing free software and promoting the ideals of the Free community software.
 * In 1993, Ian Murdock compiled a group of developers to create a coherent linux distribution that began The Debian Project.
 * *Debian* is known to be the Grandfather of all the linux distributions alongside Slackware and Open Suse.
 * Ubuntu was created to be a user friendly version of Debian and now it's a major distribution of its own with other distributions using it as its base.
 
 ####Examples of Linux Distributions based on Ubuntu:
-![Ubuntu](notes1/linuxdistro.PNG)
+![Ubuntu](../notes/linuxdistro.PNG)
 ####Examples of Linux Distributions based on Debian:
-![Debian](notes1/linuxdistro2.PNG)
+![Debian](../notes/linuxdistro2.PNG)
 
 ##What is GNU/Linux?
 * Linux is modeled on the Unix operating system.
-*  Linux was designed to be a multi-tasking, multi-user system.
+*  Linux was designed to be a multi-tasking, and multi-user system.
 *  Nobody owns Linux. Much of its development is done by unpaid volunteers.
 *  What we call the Linux operating system is a combination of The Linux Kernel and the GNU Tools developed by the Free Software Foundation.
 *  Development of what later became GNU/Linux began in 1984, when the Free Software Foundation began development of a free Unix-like operating system called GNU.
-*  
+*   Richard Stallman started coding replicas of every tool that existed in unix in 1984.He realized he needed a kernel to replace the Unix kernel. Then came Linus Taorvals who wrote the linux kernel to mimic Unix as much as possible.
