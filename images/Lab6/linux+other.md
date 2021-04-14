@@ -1,12 +1,12 @@
 # What is Linux?
 
-Linux is a free open source operating system.
+* Linux is a free open source operating system.
 
-#3 Reasons to use Linux:
+# 3 Reasons to use Linux:
 
-* Reason 1: Linux is an extremely stable and reliable operating system, it is not prone to crashes.
-* Reason 2: Linux is completely free and users do not need to pay for anything.
-* Reason 3: Users have tremendous flexibility in customising the system as per their requirements.
+* **Reason 1:** Linux is an extremely stable and reliable operating system, it is not prone to crashes.
+* **Reason 2:** Linux is completely free and users do not need to pay for anything.
+* **Reason 3:** Users have tremendous flexibility in customising the system as per their requirements.
 
 # Other operating systems
 * **Microsoft Windows** is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. 
