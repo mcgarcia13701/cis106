@@ -40,6 +40,8 @@
 
 ![Question 3](../images/lab7/../Lab7/lab7q31.png)
 
+* **allmyfiles.bz2, allmyfiles.xz, allmyfiles.gz have the same compressed size.**
+
 ## Question 4 | Zip, 7zip and Rar
 
 1. Decompress all the compressed files from question 3 in the `question4` directory. Make sure to rename the file after decompressing them.
@@ -52,3 +54,5 @@
 ![Question 4](../images/lab7/../Lab7/lab7q4.png)
 ![Question 4](../images/lab7/../Lab7/lab7q41.png)
 ![Question 4](../images/lab7/../Lab7/lab7q42.png)
+
+  * **allmyfiles.7z is compressed the best from the rest of the files.**
