@@ -1,4 +1,4 @@
-# Notes Lecture 1 What is Linux
+# Notes Lecture 1 Introduction to the linux Operating System
 
 ## Why do you need to learn linux?
 * Linux runs in alot of devices. Example: Laptops, desktops, servers, smartphones, IoT devices, etc
