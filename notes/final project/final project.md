@@ -94,6 +94,7 @@
 **Now enable UFW.**
 
 **`sudo ufw enable`** 
+
 ![ufw](../notes/../logging.png)
 * *check status*
   * **`sudo ufw status`**
